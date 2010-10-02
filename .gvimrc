@@ -1,5 +1,5 @@
 " GVIM: Color options and general settings
-colorscheme ekvoli
+colorscheme twilight2
 
 " Initial Screen Size
 set lines=120
